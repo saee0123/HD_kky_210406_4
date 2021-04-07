@@ -1,9 +1,13 @@
+/*
+구구단 5단을 출력하는 프로그램을 만들으세요
+*/
+
 #include<stdio.h>
 
 void main() {
 	int _5 = 5;
 
-	printf ("������ 5���� ����ϴ� ���α׷�\n");
+	printf ("구구단 5단을 출력하는 프로그램\n");
 
 	printf("5*1=%d \n", _5 * 1);
 	printf("5*2=%d \n", _5 * 2);
